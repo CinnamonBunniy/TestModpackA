@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "d03fc54ee1dc9ca1d055337e00d724e4606387878d25cffa7307471508f19f8f"
+hash = "9b1dda9d368d2f6f8aebe01c74f8d9e1534669065d713ec2aa2ed10a0571d47e"
 
 [[files]]
 file = "mods/balm.pw.toml"
