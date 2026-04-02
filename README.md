@@ -1,6 +1,6 @@
-# Example modpack created using PackWiz
+# The Cinnamon Modpack (TestModpackA)
 
-Surprisingly smooth experience. This modpack uses Quilt for MC 1.21.1, and has 14 mods installed.
+This modpack uses the Quilt modloader for MC 1.21.1, and has 14 mods installed.
 
 For the `pack.toml` - add "pack.toml" to the end of the URL!  
 The starter Minecraft-instance, after you've imported it into [Prism Launcher](https://prismlauncher.org/) via the `.zip` archive, will handle the gathering of the "pack.toml" automatically.
